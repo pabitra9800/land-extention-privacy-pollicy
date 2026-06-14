@@ -1,0 +1,5 @@
+Banglar Bhumi Land Document Printer - Privacy Policy
+
+1. Data Collection: This extension does not collect, store, or transmit any personal data, browser history, or land records. All data processing (such as parsing Khatian numbers and formatting plot layouts) happens locally on your machine.
+2. Third-Party Sharing: No data is ever shared with third parties or stored on external servers.
+3. Permissions: The extension requests access to activeTab and scripting solely to format the specific land record webpage you are actively viewing when you trigger the print layout command.
